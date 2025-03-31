@@ -26,7 +26,7 @@
 🔹 **Languages**: C++, Java, JavaScript, Python, TypeScript  
 🎨 **Frontend**: HTML, CSS, React, Tailwind CSS, Next.js  
 🖥️ **Backend**: Node.js, Express.js  
-🗄️ **Databases**: MongoDB, PostgreSQL  
+🗄️ **Databases**: MongoDB, MySQL  
 🔍 **Testing & Security**: Selenium, TestNG, REST API Testing  
 🛠 **Developer Tools**: GitHub, VS Code, WebStorm, Clerk, GSAP  
 
