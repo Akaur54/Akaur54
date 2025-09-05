@@ -6,6 +6,7 @@
 ---
 
 ## 🏆 **About Me**
+👩‍💻 **Current Role**: Software Engineer at Airtel
 🎓 **Education**: B.E. in Computer Science & Engineering @ Thapar Institute (2021 – 2025)  
 💡 **Interests**: Web Development, AI & ML, Cloud Computing  
 💻 **Problem Solver**: Solved **200+ problems** on LeetCode & HackerRank  
@@ -23,7 +24,7 @@
 ---
 
 ## 🛠 **Tech Stack**
-🔹 **Languages**: C++, Java, JavaScript, Python, TypeScript  
+🔹 **Languages**: C++, Java, JavaScript, Python, Typescript 
 🎨 **Frontend**: HTML, CSS, React, Tailwind CSS, Next.js  
 🖥️ **Backend**: Node.js, Express.js  
 🗄️ **Databases**: MongoDB, MySQL  
