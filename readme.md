@@ -1,12 +1,12 @@
-# 💫 Hi, I'm Amanpreet Kaur! 
+# 💫 Hi, I'm Amanpreet Kaur!  
 
-🚀 **Aspiring Software Developer | Tech Enthusiast | Lifelong Learner**  
+🚀 **Software Engineer @ Airtel | Aspiring Full-Stack Developer | Tech Enthusiast | Lifelong Learner**  
 🔍 Passionate about Full-Stack Development, Open Source, and AI-driven solutions.  
 
 ---
 
-## 🏆 **About Me**
-👩‍💻 **Current Role**: Software Engineer at Airtel
+## 🏆 **About Me**  
+👩‍💻 **Current Role**: Software Engineer at **Airtel**  
 🎓 **Education**: B.E. in Computer Science & Engineering @ Thapar Institute (2021 – 2025)  
 💡 **Interests**: Web Development, AI & ML, Cloud Computing  
 💻 **Problem Solver**: Solved **200+ problems** on LeetCode & HackerRank  
@@ -16,24 +16,24 @@
 
 ---
 
-## 📚 **Relevant Coursework**
+## 📚 **Relevant Coursework**  
 ✅ Object-Oriented Programming  
 ✅ Data Structures and Algorithms  
 ✅ Database Management Systems  
 
 ---
 
-## 🛠 **Tech Stack**
-🔹 **Languages**: C++, Java, JavaScript, Python, Typescript 
+## 🛠 **Tech Stack**  
+🔹 **Languages**: C++, Java, JavaScript, Python, TypeScript  
 🎨 **Frontend**: HTML, CSS, React, Tailwind CSS, Next.js  
-🖥️ **Backend**: Node.js, Express.js  
+🖥️ **Backend**: Node.js, Express.js, **Spring Boot**  
 🗄️ **Databases**: MongoDB, MySQL  
 🔍 **Testing & Security**: Selenium, TestNG, REST API Testing  
 🛠 **Developer Tools**: GitHub, VS Code, WebStorm, Clerk, GSAP  
 
 ---
 
-## 🌎 **Let's Connect!**
+## 🌎 **Let's Connect!**  
 📌 **Portfolio**: [Visit Here](https://portfolio-nu-lake-63.vercel.app/)  
 💼 **LinkedIn**: [Amanpreet Kaur](https://linkedin.com/in/amanpreet-kaur1209)  
 🖥️ **GitHub**: [Akaur54](https://github.com/Akaur54)  
